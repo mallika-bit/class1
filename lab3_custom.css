@@ -1,0 +1,48 @@
+﻿body
+{
+}
+h1{
+    text-align:center;
+}
+.custom{
+   
+}
+iframe, #tutorial{
+    position:absolute;
+    top:100px;
+    left:400px;
+}
+#tutorial{
+    width:50%;
+    padding-left:10%;
+    margin-left:10%;
+
+}
+/*a div:hover{
+    background-color:lightcoral;
+    color:black;
+}*/
+/*.list-group-item:hover{
+   background-color:lightskyblue;
+   color:black;
+}*/
+ li a{
+    text-decoration:none;
+}
+ li{
+     padding:10px;
+     border:1px solid azure ;
+     background-color:lightgrey;
+     color:pink;
+ }
+ li:hover{
+     background-color:black;
+     color:azure;
+ }
+ ul{
+     list-style:none;
+     padding-left:2%;
+ }
+ aside{
+     width:40%;
+ }

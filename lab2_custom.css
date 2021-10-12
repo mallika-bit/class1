@@ -1,0 +1,17 @@
+﻿body {
+    background-color:cornsilk;
+}
+h1{
+    background-color:maroon;
+    color:white;
+}
+h3{
+    color:maroon;
+
+}
+.wrong{
+    color:red;
+}
+#tips{
+    font-style:italic;
+}

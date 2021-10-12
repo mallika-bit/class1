@@ -1,0 +1,13 @@
+﻿body {
+    background-color: cyan;
+}
+h1{
+    color:red;
+}
+ul li{
+    font-style:italic;
+    
+}
+h4, ul li{
+    color:red;
+}
